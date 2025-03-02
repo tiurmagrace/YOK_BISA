@@ -1,2 +1,2 @@
-print("tiur cantik")
+print("tiur dan rengganis dodol")
 
