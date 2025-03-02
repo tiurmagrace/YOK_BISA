@@ -1,2 +1,2 @@
-print("tiur dan rengganis dodol")
+print("tiur dan aay dodol bgtt")
 
